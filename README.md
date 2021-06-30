@@ -1,6 +1,5 @@
-Enda Crossan - GitHub ReadMe
-
-![image](https://user-images.githubusercontent.com/48137079/123821948-c47b4e80-d8f3-11eb-852f-206b25c90ede.png)
+# Enda Crossan - GitHub ReadMe
+![endacrossan-intro](https://github.com/endacrossan/github_profile_gif/blob/80050af5608c222cdfbd9cab92e31c332bd1856b/endacrossan_github.gif)
 
 # h1 
 ## h2
